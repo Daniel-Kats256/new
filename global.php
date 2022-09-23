@@ -65,7 +65,7 @@
         </div>
         <div class="longimg">
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto, recusandae.</p>
-            <img src="images/download (3).jpg" alt="">
+            <img src="images/images (2).jpg" alt="">
         </div>
         <div class="doubleimg">
             <div>
